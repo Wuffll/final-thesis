@@ -1,6 +1,6 @@
-# final-work
+# 
 
-This repository contains all the project files used for my final work "Human Character Models"
+This repository contains all the project files used for my thesis "Human Character Models"
 
 
 # Unreal Engine Files
