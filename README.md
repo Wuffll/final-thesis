@@ -1,4 +1,4 @@
-# 
+# final-work
 
 This repository contains all the project files used for my thesis "Human Character Models"
 
